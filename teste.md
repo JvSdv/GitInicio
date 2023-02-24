@@ -1,1 +1,2 @@
 teste de fetch
+fernando
